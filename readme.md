@@ -1,7 +1,7 @@
 ## Todos
 - Render board
 - Color based on space state
-- Denounced movement (discrete key presses to move)
+- Debounced movement (discrete key presses to move)
 - Resolve all movement/collisions
 - Winning logic
 	-	Timer for hider
